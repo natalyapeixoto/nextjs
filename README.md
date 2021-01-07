@@ -4,6 +4,7 @@ Note app! 🤟🏼
 
 The course: https://hendrixer.github.io/nextjs-course/
 
+## App link deployed on vercel: https://nextjsapp.natalyapeixoto.vercel.app/
 
 
 #### Rendering Modes
