@@ -6,7 +6,7 @@ The course: https://hendrixer.github.io/nextjs-course/
 
 
 
-###### Rendering Modes
+#### Rendering Modes
 Next.js looks at the data fetching in your page components to determine how and when to prerender your page. Here are the different modes:
 
 * Static Generation Pages built at build time into HTML. CDN cacheable.
@@ -15,7 +15,7 @@ Next.js looks at the data fetching in your page components to determine how and 
 
 * Client-side Rendering Single-page app
 
-###### Automatically Generated Readme:
+### Automatically Generated Readme:
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
